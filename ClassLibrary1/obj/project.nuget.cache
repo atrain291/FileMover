@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "3y8TcJQqhFh7I9uEJbRh5sQJ3+rqpZhQdX3XVHpmPTGCHaA3kkPspnIngQdlfJGCalZnyG0FAz57Bt8iU43H5g==",
+  "success": true,
+  "projectFilePath": "/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/ClassLibrary1.fsproj",
+  "expectedPackageFiles": [
+    "/home/alex_new/.nuget/packages/fsharp.core/4.7.0/fsharp.core.4.7.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/home/alex_new/.nuget/packages/xmpcore/6.1.10/xmpcore.6.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}

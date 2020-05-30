@@ -1,0 +1,70 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/ClassLibrary1.fsproj": {}
+  },
+  "projects": {
+    "/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/ClassLibrary1.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/ClassLibrary1.fsproj",
+        "projectName": "ClassLibrary1",
+        "projectPath": "/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/ClassLibrary1.fsproj",
+        "packagesPath": "/home/alex_new/.nuget/packages/",
+        "outputPath": "/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/home/alex_new/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "FSharp.Core": {
+              "target": "Package",
+              "version": "[4.7.0, )",
+              "generatePathProperty": true
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true,
+              "generatePathProperty": true
+            },
+            "XmpCore": {
+              "target": "Package",
+              "version": "[6.1.10, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/bin/Debug/netstandard2.0/ClassLibrary1.deps.json
+/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/bin/Debug/netstandard2.0/ClassLibrary1.dll
+/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/bin/Debug/netstandard2.0/ClassLibrary1.pdb
+/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.fsprojAssemblyReference.cache
+/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.AssemblyInfoInputs.cache
+/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.AssemblyInfo.fs
+/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.dll
+/home/alex_new/RiderProjects/ClassLibrary1/ClassLibrary1/obj/Debug/netstandard2.0/ClassLibrary1.pdb
